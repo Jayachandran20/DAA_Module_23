@@ -17,8 +17,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 ```
 /*
 A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
-Developed by: JEEVAGOWTHAM S
-Register Number: 212222230053
+Developed by: M JAYACHANDRAN
+Register Number: 212222240038
 */
 ```
 ```python

@@ -17,8 +17,8 @@ To write a python program to find the maximum contiguous subarray.
 ```
 /*
 To implement the program to find the maximum contiguous subarray.
-Developed by: JEEVAGOWTHAM S
-Register Number: 212222230053 
+Developed by: M JAYACHANDRAN
+Register Number: 212222240038 
 */
 ```
 
